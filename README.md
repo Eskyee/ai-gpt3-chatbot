@@ -8,9 +8,9 @@ A simple chat bot using Next.js, API Routes, and [OpenAI API](https://beta.opena
 - OpenAI API (REST endpoint)
 - API Routes (Edge runtime)
 
-## Demo
+## JungleLab OpenAI Demo
 
-https://ai-gpt3-chatbot-m8gzqtwsx-junglelab.vercel.app
+ai-gpt3-chatbot-oh5ynh7vd-junglelab.vercel.app
 
 
 
