@@ -1,4 +1,4 @@
-# AI Chat GPT-3 example
+# JungleLab OpenAI Chat GPT-3
 
 A simple chat bot using Next.js, API Routes, and [OpenAI API](https://beta.openai.com/docs/api-reference/completions/create).
 
@@ -10,7 +10,7 @@ A simple chat bot using Next.js, API Routes, and [OpenAI API](https://beta.opena
 
 ## JungleLab OpenAI Demo
 
-ai-gpt3-chatbot-oh5ynh7vd-junglelab.vercel.app
+https://ai-gpt3-chatbot-oh5ynh7vd-junglelab.vercel.app
 
 
 
